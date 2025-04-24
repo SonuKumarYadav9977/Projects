@@ -1,0 +1,19 @@
+User Interface
+
+the user interface is going to be in CLI.
+it will have a window like cmd and powershell.
+in the top theer will be a message like --
+" @Rashell corporation support ver 1.01.2 
+  command terminal opening sucessfull !
+
+  @format selection>><here user have to select a type like wheather he/she want to use admin or administrator>
+
+  @user>>
+    or
+  @administretor>>
+"
+the message and formate selection will be chossen only once  but teh formate part can be rechange by user using command like --
+
+user -f
+administrator -f
+

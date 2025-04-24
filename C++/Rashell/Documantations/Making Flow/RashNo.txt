@@ -1,0 +1,13 @@
+Rash                    Command	Meaning	                       Number
+-o                  	open	                               1
+-c                  	close	                               2
+-s                  	shutdown	                           3
+-r                  	restart	                               4
+-lf                  	list files	                           5
+-sf                  	select file	                           6
+-e                  	exit	                               7
+-cf                  	create file	                           8
+-df                  	delete file	                           9
+-do                  	calculate	                           10
+-n                  	rename name	                           11
+-f                  	format selection	                   12

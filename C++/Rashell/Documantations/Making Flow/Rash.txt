@@ -1,0 +1,17 @@
+
+the commands will be upadted fequently !
+
+Oparations                    RashellCommand                    Example
+                                                                                       
+1.open                        <app name> -o                     <crome> -o 
+2.close                       <app name> -c                     <crome> -c
+3.shutdown                    -s                                -s
+4.restart                     -r or <app name> -r               -r or crome -r
+5.list files                  <url> -lf                         lf C:\ProgramData\GameMakerStudio2\Skins
+6.select file                 <no> -sf or <url> -sf             2 -sf or C:\ProgramData\crome -sf
+7.exit                        <no or url or name> -e            crome -e
+8.create file                 <url> -cf <name> -n               C:\monu\game -cf tic_tak_toe -n 
+9.delete file                 <url> -df                         C:\monu\game\tic_tak_toe -df
+10.calculate                  <expression> -do                  22 / 2 + 45 * 3 -do
+11.name change                <url> -sf <name> -n               C:\monu\game\mine -sf craft -n
+12.formate selection          <formate> -f                      user -f   or   administrator -f

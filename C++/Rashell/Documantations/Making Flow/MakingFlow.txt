@@ -1,0 +1,25 @@
+1.writing command lines  completed!
+
+2.ui code  completed!
+
+3.calculator code
+
+4.allinging commands flow through code  completed!
+
+5.code for commands
+
+6.error handeling
+
+7.making path inclusion designe
+
+8.writing code for path code
+
+9.making responses
+
+10.makeing better algorythem and additional feature
+
+11.writing document.
+
+12.making user mannual
+
+13.upload it as a opensourece product and make the source code available 
